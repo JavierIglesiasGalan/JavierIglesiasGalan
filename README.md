@@ -46,8 +46,8 @@
 ## 📊 Estadísticas
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JavierIglesiasGalan&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierIglesiasGalan&layout=compact&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JavierIglesiasGalan&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierIglesiasGalan&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=86400"/>
 </div>
 
 ---
