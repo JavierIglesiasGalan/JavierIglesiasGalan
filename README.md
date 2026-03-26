@@ -30,7 +30,8 @@
 <img src="https://skillicons.dev/icons?i=python,bash" />
 
 ### 🗄️ Bases de datos
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,sqlserver" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 ### ⚙️ Sistemas y DevOps
 <img src="https://skillicons.dev/icons?i=linux,docker,git" />
