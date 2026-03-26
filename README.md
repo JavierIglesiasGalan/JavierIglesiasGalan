@@ -6,9 +6,10 @@
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Python-Medio-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Databases-SQL-green?style=for-the-badge&logo=postgresql">
   <img src="https://img.shields.io/badge/System%20Admin-Linux-orange?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/System%20Admin-Windows-blue?style=for-the-badge&logo=windows">
 </div>
 
 <br>
