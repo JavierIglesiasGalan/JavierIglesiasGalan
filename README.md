@@ -30,10 +30,10 @@
 <img src="https://skillicons.dev/icons?i=python,bash" />
 
 ### 🗄️ Bases de datos
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,sqlserver" />
 
 ### ⚙️ Sistemas y DevOps
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git" />
 
 ### 🧰 Herramientas
 <img src="https://skillicons.dev/icons?i=vscode,github" />
