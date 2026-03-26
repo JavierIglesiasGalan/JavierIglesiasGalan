@@ -1,9 +1,18 @@
 <div align="center">
-  <h1>👨‍💻 Javier Iglesias</h1>
-  <h3>Python Developer | Database Adminsitrator | SysAdmin</h3>
+
+<h1>👨‍💻 Javier Iglesias</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Developer;Database+Administrator;SysAdmin+Windows+%26+Linux" />
+
 </div>
 
 <hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JavierIglesiasGalan&label=Visitas&color=blue&style=for-the-badge" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-Medio-blue?style=for-the-badge&logo=python">
@@ -12,13 +21,13 @@
   <img src="https://img.shields.io/badge/System%20Admin-Windows-blue?style=for-the-badge&logo=windows">
 </div>
 
-<br>
+---
 
 ## 🚀 Sobre mí
-💡 Apasionado por la tecnología, el desarrollo backend a nivel de base de datos y programación en Python y la administración de sistemas.  
-🐍 Esperiencia con Python.  
-🗄️ Experiencia en diseño y gestión de bases de datos.  
-🖥️ Administrador de sistemas con enfoque en entornos Windows y Linux.
+💡 Apasionado por la tecnología, el desarrollo backend y la administración de sistemas.  
+🐍 Experiencia con Python.  
+🗄️ Diseño y gestión de bases de datos.  
+🖥️ Administración de sistemas en entornos Windows y Linux.  
 
 ---
 
@@ -31,6 +40,7 @@
 
 ### 🗄️ Bases de datos
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<br><br>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 ### ⚙️ Sistemas y DevOps
@@ -46,16 +56,23 @@
 ## 📊 Estadísticas
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JavierIglesiasGalan&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierIglesiasGalan&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=86400"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JavierIglesiasGalan&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierIglesiasGalan&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=86400"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierIglesiasGalan&theme=tokyonight&cache_seconds=86400" />
 </div>
 
 ---
 
 ## 🔥 Proyectos destacados
 
-- 📊 Gestión y optimización de bases de datos
-- 🖥️ Administración de servidores
+- 📊 Gestión y optimización de bases de datos  
+- 🖥️ Administración de servidores  
+- ⚙️ Automatización con Python  
 
 ---
 
